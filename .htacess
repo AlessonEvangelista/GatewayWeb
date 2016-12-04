@@ -1,0 +1,2 @@
+RewriteEnginer On
+rewriteRule ^(.*)$ $2
